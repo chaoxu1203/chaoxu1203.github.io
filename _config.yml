@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
+title: XC Blog
 SEOTitle: 徐超的博客 | 星辰大海
 header-img: img/post-bg-desk.jpg
 email: chaoxu1203@gmail.com
-description: "Every failure is leading towards success."
-keyword: "徐超的博客"
+description: "美好的一切"
+keyword: "深度学习，Python"
 url: "http://chaoxu1203.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/chaoxu1203/chaoxu1203.github.io.git" # you code repository
@@ -65,8 +65,8 @@ gitalk:
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
   repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  owner: chaoxu1203    #github用户名
+  admin: chaoxu1203
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
